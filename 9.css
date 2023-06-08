@@ -76,28 +76,24 @@ footer{
     width: 100%;
     display:block;
     margin-top: 50px;
-  }
-  
-  .image1{
-    width: 90%;
-  }
-  
-  .image2{
-    width: 90%;
-  }
-  
-  .image3{
-    width: 90%;
+    margin-bottom: 50px;
   }
 
   .box{
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
     margin-bottom: 20px;
+    
   }
 
-.box:last-child{
-  margin-bottom: 0;
-}
+  .box:last-child{
+    margin:0 auto;
+    margin-bottom: 0;
+  }
+
+  step{
+    width: 90px;
+  }
 
   footer{
     width: 100%;
